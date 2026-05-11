@@ -1,4 +1,4 @@
-
+custom KeePassXC for macOS Addon | biometric-login + secure-storage offers the most advanced KeePassXC for macOS addon, with biometric-login and secure-storage. Ideal for macOS
 
 
 
